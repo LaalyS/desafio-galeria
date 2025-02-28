@@ -65,4 +65,6 @@ Não há pré-requisitos específicos para executar este projeto localmente, poi
 - Tablet
 ![image](https://github.com/user-attachments/assets/db6f24eb-0f60-4adc-859d-e385448feb70)
 
+
+
   
